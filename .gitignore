@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+*.state.json
+/tmp/codex-review-*
+/tmp/claude-review-*
+/tmp/dual-review-*
